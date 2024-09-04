@@ -1,0 +1,8 @@
+project_name: mock3
+builds:
+  - binary: mock3
+    goos:
+      - windows
+    goarch:
+      - amd64
+      - arm64
